@@ -1,0 +1,5 @@
+﻿  contact.c
+D:\vscodeC语言代码\north-south---c\address book\address book\contact.c(152,30): warning C4028: 形参 1 与声明不同
+  test.c
+  正在生成代码...
+  address book.vcxproj -> D:\vscodeC语言代码\north-south---c\address book\x64\Debug\address book.exe
