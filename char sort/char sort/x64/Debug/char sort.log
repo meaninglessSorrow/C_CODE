@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\char sort\char sort\test.c(13,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\vscodeC语言代码\north-south---c\char sort\char sort\test.c(13,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+  char sort.vcxproj -> D:\vscodeC语言代码\north-south---c\char sort\x64\Debug\char sort.exe
