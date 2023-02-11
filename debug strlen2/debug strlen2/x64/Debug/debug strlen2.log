@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\debug strlen2\debug strlen2\test.c(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vscodeC语言代码\north-south---c\debug strlen2\debug strlen2\test.c(36,9): message : 请考虑在格式字符串中使用“%zd”
+  debug strlen2.vcxproj -> D:\vscodeC语言代码\north-south---c\debug strlen2\x64\Debug\debug strlen2.exe
