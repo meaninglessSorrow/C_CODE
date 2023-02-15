@@ -1,0 +1,3 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\debug8\debug8\test.c(1,1): warning C4828: 文件包含在偏移 0x34d 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  debug8.vcxproj -> D:\vscodeC语言代码\north-south---c\debug8\Debug\debug8.exe
