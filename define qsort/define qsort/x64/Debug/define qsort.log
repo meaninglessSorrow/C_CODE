@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\define qsort\define qsort\test.c(33,57): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\vscodeC语言代码\north-south---c\define qsort\define qsort\test.c(113,62): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  define qsort.vcxproj -> D:\vscodeC语言代码\north-south---c\define qsort\x64\Debug\define qsort.exe
