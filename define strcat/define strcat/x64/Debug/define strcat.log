@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\define strcat\define strcat\test.c(30,26): warning C4047: “函数”:“char *”与“char (*)[20]”的间接级别不同
+D:\vscodeC语言代码\north-south---c\define strcat\define strcat\test.c(30,21): warning C4024: “de_strcat”: 形参和实参 1 的类型不同
+  define strcat.vcxproj -> D:\vscodeC语言代码\north-south---c\define strcat\x64\Debug\define strcat.exe
