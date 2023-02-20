@@ -1,0 +1,3 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\qsort number\qsort number\test.c(10,21): error C2065: “pea”: 未声明的标识符
+D:\vscodeC语言代码\north-south---c\qsort number\qsort number\test.c(10,22): error C2059: 语法错误:“)”
