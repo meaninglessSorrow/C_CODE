@@ -1,0 +1,5 @@
+﻿  test.c
+D:\vscodeC语言代码\north-south---c\define strlen\define strlen\test.c(44,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vscodeC语言代码\north-south---c\define strlen\define strlen\test.c(47,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vscodeC语言代码\north-south---c\define strlen\define strlen\test.c(50,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  define strlen.vcxproj -> D:\vscodeC语言代码\north-south---c\define strlen\x64\Debug\define strlen.exe
